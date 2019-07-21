@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1524966823 source:f:\studies\sem2\semestre2tresor\testberk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"conio2.h"
+	"Tp_LLC.h"
+	<time.h>
+
+1524958699 source:f:\studies\sem2\semestre2tresor\testberk\conio2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1524958700 f:\studies\sem2\semestre2tresor\testberk\conio2.h
+	<conio.h>
+	<windows.h>
+
+1524966751 source:f:\studies\sem2\semestre2tresor\testberk\tp_llc.c
+	"Tp_LLC.h"
+	<string.h>
+	<windows.h>
+
+1524966803 f:\studies\sem2\semestre2tresor\testberk\tp_llc.h
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"conio2.h"
+
+1524958700 source:f:\docier tp of\tp1_yasser\conio2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1524958702 f:\docier tp of\tp1_yasser\conio2.h
+	<conio.h>
+	<windows.h>
+
+1524967030 source:f:\docier tp of\tp1_yasser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"conio2.h"
+	"Tp_LLC.h"
+	<time.h>
+
+1524966804 f:\docier tp of\tp1_yasser\tp_llc.h
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"conio2.h"
+
+1524966752 source:f:\docier tp of\tp1_yasser\tp_llc.c
+	"Tp_LLC.h"
+	<string.h>
+	<windows.h>
+
+1524958700 source:c:\users\hp\desktop\tp1_yasser\conio2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1524958702 c:\users\hp\desktop\tp1_yasser\conio2.h
+	<conio.h>
+	<windows.h>
+
+1525043023 source:c:\users\hp\desktop\tp1_yasser\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"conio2.h"
+	"Tp_LLC.h"
+	<time.h>
+
+1525043392 c:\users\hp\desktop\tp1_yasser\tp_llc.h
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"conio2.h"
+
+1525042475 source:c:\users\hp\desktop\tp1_yasser\tp_llc.c
+	"Tp_LLC.h"
+	<string.h>
+	<windows.h>
+
+1524958700 source:c:\users\hp\desktop\tp1_ hebbadj_chouadera\conio2.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1524958702 c:\users\hp\desktop\tp1_ hebbadj_chouadera\conio2.h
+	<conio.h>
+	<windows.h>
+
+1525043023 source:c:\users\hp\desktop\tp1_ hebbadj_chouadera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<conio.h>
+	"conio2.h"
+	"Tp_LLC.h"
+	<time.h>
+
+1525043392 c:\users\hp\desktop\tp1_ hebbadj_chouadera\tp_llc.h
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<stdio.h>
+	<conio.h>
+	"conio2.h"
+
+1525043429 source:c:\users\hp\desktop\tp1_ hebbadj_chouadera\tp_llc.c
+	"Tp_LLC.h"
+	<string.h>
+	<windows.h>
+
